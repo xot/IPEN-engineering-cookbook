@@ -14,12 +14,7 @@ Lead editor for this cookbook is Jaap-Henk Hoepman, jhh@cs.ru.nl.
 
 ## Contributors
 
-<table>
-<tr>
-  <td>Name</td><td>Affiliation</td><td>Email address</td>
-</tr>
-<tr>
-  <td>Jaap-Henk Hoepman</td>
-  <td>Radboud University /Privacy &amp; Identity Lab</td>
-  <td>jhh@cs.ru.nl</td>
-</table>
+Name | Affiliation | Email address
+-----|-------------|--------------
+Jaap-Henk Hoepman | Radboud University /Privacy &amp; Identity Lab | jhh@cs.ru.nl
+
