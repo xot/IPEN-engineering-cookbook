@@ -1,4 +1,4 @@
-# IPEN Cookbook for Privacy Engineering
+# IPEN Cookbook for Privacy Engineering (COPE)
 
 ## Origin
 
@@ -8,6 +8,8 @@ Lead editor for this cookbook is Jaap-Henk Hoepman, jhh@cs.ru.nl.
 
 ## Scope
 
+The Cookbook for Privacy Engineering (COPE) is a guide for developers on how to integrate privacy into systems, apps, services, etc. There is also a related [IPEN Privacy Cookbook for Business Processes](https://github.com/michael-oneill/IPEN-cookbook/).
+
 ## Content
 
 
@@ -16,5 +18,5 @@ Lead editor for this cookbook is Jaap-Henk Hoepman, jhh@cs.ru.nl.
 
 Name | Affiliation | Email address
 -----|-------------|--------------
-Jaap-Henk Hoepman | Radboud University /Privacy &amp; Identity Lab | jhh@cs.ru.nl
+Jaap-Henk Hoepman | Radboud University / Privacy &amp; Identity Lab | jhh@cs.ru.nl
 
