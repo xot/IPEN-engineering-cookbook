@@ -12,7 +12,7 @@ The Cookbook for Privacy Engineering (COPE) is a guide for developers on how to 
 
 ## Content
 
-
+- [Resources](./resources.md)
 
 ## Contributors
 
