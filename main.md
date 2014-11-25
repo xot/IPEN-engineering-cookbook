@@ -23,7 +23,7 @@ The core contributions to the cookbook should be descriptions of generic, privac
 - [Prerequisites](./prereqs-success.md)
 - [Engineering Lifecycle](./lifecycle.md)
 - [Hardware](./hardware.md)
-- [Software](./software)
+- [Software](./software.md)
     - [Webapps and services](./webapps_services.md)
     - [Mobile Apps](./mobile_apps.md)
     - [Desktop software](./desktop_software.md)
