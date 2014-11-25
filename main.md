@@ -16,6 +16,9 @@ As part of regulatory compliance functions, the executive team in the business s
 
 As such this cookbook will look at how Privacy by Design can be practically applied to the engineering process and lifecycle - including importantly, the testing phases - and also how it can be applied for hardware and software products, services, components, networks, systems, data management, bigdata and analytics, (?). Where useful, sections will have relevant examples.
 
+The core contributions to the cookbook should be descriptions of generic, privacy friendly, solutions to a recurring problem. These are sometimes called privacy design patterns. These design patterns are listed below in the most relevant application area where the problem they solve typically arise.
+
+
 ## Content
 - [Prerequisites](./prereqs-success.md)
 - [Engineering Lifecycle](./lifecycle.md)
